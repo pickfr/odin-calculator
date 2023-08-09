@@ -4,8 +4,13 @@ let x; // first number
 let y; // second number
 let op; // operator
 let result;
+let display = 0;
 
+function buildUI(){
 
+    
+
+}
 
 function operate(operator, x ,y){
 
